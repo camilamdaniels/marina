@@ -125,7 +125,7 @@ nav {
 	color: white;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
 	body {
 		overflow-x: hidden;
 	}
