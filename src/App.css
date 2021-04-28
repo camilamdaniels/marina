@@ -45,9 +45,9 @@ nav {
 	color: rgba(255, 255, 255, 0.85);
 }
 
-.link a:hover {
+.link:hover {
 	color: rgba(255, 255, 255, 1);
-	font-weight: normal;
+	font-weight: bold;
 }
 
 .hamburger-toggle {
