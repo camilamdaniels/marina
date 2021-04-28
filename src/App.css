@@ -166,6 +166,10 @@ nav {
 		
 	}
 
+	.link:hover {
+		font-weight: bold;
+	}
+
 	.active {
 		transform: translateX(0%);
 	}
