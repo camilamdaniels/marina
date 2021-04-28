@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marina/static/css/main.f34053c9.chunk.css",
+    "main.css": "/marina/static/css/main.f4235376.chunk.css",
     "main.js": "/marina/static/js/main.f178dbc0.chunk.js",
     "main.js.map": "/marina/static/js/main.f178dbc0.chunk.js.map",
     "runtime-main.js": "/marina/static/js/runtime-main.a4329e0f.js",
@@ -8,14 +8,14 @@
     "static/js/2.824406f5.chunk.js": "/marina/static/js/2.824406f5.chunk.js",
     "static/js/2.824406f5.chunk.js.map": "/marina/static/js/2.824406f5.chunk.js.map",
     "index.html": "/marina/index.html",
-    "static/css/main.f34053c9.chunk.css.map": "/marina/static/css/main.f34053c9.chunk.css.map",
+    "static/css/main.f4235376.chunk.css.map": "/marina/static/css/main.f4235376.chunk.css.map",
     "static/js/2.824406f5.chunk.js.LICENSE.txt": "/marina/static/js/2.824406f5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/marina/static/media/background-image.2c5887c9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4329e0f.js",
     "static/js/2.824406f5.chunk.js",
-    "static/css/main.f34053c9.chunk.css",
+    "static/css/main.f4235376.chunk.css",
     "static/js/main.f178dbc0.chunk.js"
   ]
 }
